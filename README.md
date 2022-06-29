@@ -5,7 +5,7 @@
 
 
  ![](./profile-3d-contrib/profile-night-view.svg)
-<a href="https://github.com/nightfury-dev" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=nightfury-dev&label=Profile%20views&color=129e00&style=plastic" alt="nightfury-dev" /> </p> 
+<a href="https://github.com/crazedRomeo" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=nightfury-dev&label=Profile%20views&color=129e00&style=plastic" alt="nightfury-dev" /> </p> 
 
 <br/>  
 
@@ -15,7 +15,7 @@
  ---
   ## Github Stats  
 <div align="center">
-  <a href="https://github.com/nightfury-dev">
+  <a href="https://github.com/crazedRomeo">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=nightfury-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightfury-dev&layout=compact&langs_count=7&theme=dark" />
   </a>
